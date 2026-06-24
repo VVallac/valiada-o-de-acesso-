@@ -17,7 +17,7 @@ Este projeto implementa uma lógica de validação de acesso em Python com prote
 ## Requisitos
 
 - Python 3.x
-- [Dependências adicionais - especifique conforme necessário]
+
 
 ## Instalação
 
@@ -28,13 +28,13 @@ cd valiada-o-de-acesso-
 
 ## Uso
 
-[Adicionar exemplos de código]
+
 
 ## Configuração
 
 - Limite de tentativas: 5
-- [Outras configurações]
+
 
 ## Licença
 
-[Especifique a licença]
+

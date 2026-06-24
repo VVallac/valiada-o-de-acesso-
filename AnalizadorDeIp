@@ -1,2 +1,8 @@
 imoprt os
 erros_por_ip = {}
+limite_erros = 5
+def analizar_log(ip_suspeito):
+erros_Por_ip[ip_suspeitp]= erros_ip.get(ip_suspeito,0)+1
+if erros_por_ip[ip_suspeito]>= limite_erros:
+print(f"alerta.bloqueio{ip_suspeito}!")
+os.system(f"iptables - A INPUT - s {iup_suspeito} - j DROP")
